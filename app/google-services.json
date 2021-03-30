@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269762133137",
+    "project_id": "solution-challenge-6c89a",
+    "storage_bucket": "solution-challenge-6c89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269762133137:android:4f68e5065b24308f101330",
+        "android_client_info": {
+          "package_name": "com.kapirti.googlesolutionchallenge_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269762133137-hkk9dlgbt4j1viaufqrbdqfp8d1cvnvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJ9B4NF3n8DjlJ1o0HIL8uVQdeBZPAro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269762133137-hkk9dlgbt4j1viaufqrbdqfp8d1cvnvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
